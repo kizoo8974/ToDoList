@@ -22,5 +22,5 @@ function ___$insertStylesToHeader(css) {
 
 ___$insertStylesToHeader(".container {\n  width: 100px;\n  height: 100px;\n  background-color: greenyellow;\n}");
 
-console.log("TODOLIST");
+console.log("TODOLIST!!");
 //# sourceMappingURL=bundle.js.map

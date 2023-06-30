@@ -1,1 +1,1 @@
-{"version":3,"file":"bundle.js","sources":["../src/js/index.js"],"sourcesContent":["import \"../scss/style.scss\"\r\n\r\nconsole.log(\"TODOLIST\")"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;AAEA,OAAO,CAAC,GAAG,CAAC,UAAU;;"}
+{"version":3,"file":"bundle.js","sources":["../src/js/index.js"],"sourcesContent":["import \"../scss/style.scss\"\r\n\r\nconsole.log(\"TODOLIST!!\")"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;AAEA,OAAO,CAAC,GAAG,CAAC,YAAY;;"}

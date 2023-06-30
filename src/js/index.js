@@ -1,3 +1,3 @@
 import "../scss/style.scss"
 
-console.log("TODOLIST")
+console.log("TODOLIST!!")
